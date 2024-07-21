@@ -1,0 +1,2 @@
+# quiosco_with_react
+ Quisco proyecto composer create-project --prefer-dist laravel/laravel quiosco npm create vite@latest  tailwind css npm install -D tailwindcss postcss autoprefixer  (-D) dependencias de desarrollo.  npx tailwindcss init -p   El comando npx tailwindcss init -p se utiliza para inicializar un proyecto TailwindCSS y crear los archivos de configuración necesarios. Específicamente: npx: Ejecuta paquetes de Node.js sin necesidad de instalarlos globalmente.
